@@ -76,15 +76,7 @@ body {
 @keyframes float {
     0% { transform: translateY(0); }
     50% { transform: translateY(-8px); }
-    100% { transform: translateY(0); }
-}
-/* CSS */
-.center-image {
-    display: block;      
-    margin: 0 auto;      
-    width: 1000px;        
-    height: 1000px; 
-    opacity:0.7;       
+    100% { transform: translateY(0); }       
 }
 
 
@@ -134,3 +126,4 @@ body {
     transform: translateY(-10px);
     box-shadow: 0 10px 25px rgba(0,0,0,0.5);
 }
+
